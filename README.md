@@ -1,2 +1,2 @@
 # JAVA-School-Projects
-All the programs done in high school.
+Computer project done in Class X.
