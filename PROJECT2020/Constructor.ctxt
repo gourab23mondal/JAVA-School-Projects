@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Constructor
+comment1.params=
+comment1.target=void\ control()
+comment2.params=length\ breadth\ height
+comment2.target=Constructor(int,\ int,\ int)
+comment3.params=s
+comment3.target=Constructor(java.lang.String)
+comment4.params=
+comment4.target=void\ volume()
+comment5.params=
+comment5.target=void\ word()
+comment6.params=
+comment6.target=boolean\ check()
+numComments=7
